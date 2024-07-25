@@ -1,0 +1,5 @@
+Vishal,21,A
+Simran,21,A
+Ram,12,C
+Gita,23,D
+Fizu,33,C
